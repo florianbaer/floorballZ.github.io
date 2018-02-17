@@ -55,9 +55,9 @@ a {
     height: 400px;
     margin-bottom: 60px;
     background-position: left;
-    background-image: url('resources/images/functionalGraphic.png');
+    background-image: url('resources/images/functionalGraphic.jpg');
     z-index: 1;
-    background-color: hsla(0, 0%, 100%, 0.70);
+    background-color: hsla(0, 0%, 100%, 0.20);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
 }
@@ -65,7 +65,7 @@ a {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
     z-index: 10;
-    color: #FF2165;
+    color: #18BEE7;
 }
 
 /* Declare heights because of positioning of img element */
