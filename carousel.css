@@ -57,7 +57,7 @@ a {
     background-position: left;
     background-image: url('resources/images/functionalGraphic.jpg');
     z-index: 1;
-    background-color: hsla(0, 0%, 100%, 0.20);
+    background-color: hsla(0, 0%, 100%, 0.60);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
 }
