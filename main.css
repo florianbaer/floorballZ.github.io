@@ -11,6 +11,12 @@ a {
     color: #18BEE7;
 }
 
+.appLink img {
+    width: 25%;
+    min-width: 100px;
+    margin: 0 10px 0 0;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
